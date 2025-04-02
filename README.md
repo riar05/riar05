@@ -9,7 +9,7 @@ Hi, I’m Ria_Robins @riar05
   
   Computational Chemist| Data Alchemist | Raw data to actionable Intelligence | ML in Drug Discovery
   
-# TECHNICAL SKILLS
+# Technical Skills
 - Languages : Python, SQL, PySpark, R, Fortran
 - Scripting : Bash, Python
 - Molecular Dynamic Simulation : GROMACS, PLUMED
